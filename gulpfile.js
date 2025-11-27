@@ -68,8 +68,8 @@ gulp.task("watch", function() {
 	gulp.watch("./src/css/**/*.scss", gulp.parallel(["css"]));
 	gulp.watch("./src/js/*.js", gulp.parallel(["js"]));
 	connect.server({
-		root: "dist",
 		livereload: true,
+		root: "dist",
 		port: 8080
 	});
 });
