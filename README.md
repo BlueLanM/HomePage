@@ -1,14 +1,10 @@
-# SimonAKing-HomePage
+# BlueLanM-HomePage
 
 [中文版说明](<README.zh_CN.md>)
 
 ## Introduction
 
 > A modern and elegant personal homepage with fluid animation background, responsive design and smooth page transitions.
-
-![preview](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMncyb3oyc21zc3czejU3cGk4M2tiNTdkaTM0N3FodGVpZmU5azNxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhXFCZEogq39rOpKUi/giphy.gif)
-
-[Online browsing](http://simonaking.com)
 
 Do you want to install such a cool homepage for your website?
 
@@ -17,7 +13,7 @@ Let's start now!
 ## Install
 
 ```sh
-git clone https://github.com/SimonAKing/HomePage.git
+git clone https://github.com/BlueLanM/HomePage.git
 cd HomePage
 npm install
 npm run dev
@@ -56,7 +52,7 @@ such as：
 ```json
 {
 	"head": {
-		"title": "SimonAKing",
+		"title": "LanM",
 		"description": "Category:Personal Blog",
 		"favicon": "favicon.ico"
 	}
