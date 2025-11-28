@@ -26,6 +26,11 @@
 				"text": "Blog"
 			},
 			"second": {
+				"href": "https://bluelanm.github.io/Coin-Game/",
+				"icon": "coin",
+				"text": "幸运硬币"
+			},
+			"third": {
 				"href": "https://github.com/BlueLanM",
 				"icon": "github",
 				"text": "Github"
